@@ -1,0 +1,5 @@
+﻿  Message.cpp
+e:\c++\贪吃蛇\贪吃蛇2\windowtest1\message.cpp(68): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\c++\贪吃蛇\贪吃蛇2\windowtest1\message.cpp(212): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+Message.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  WindowTest1.vcxproj -> E:\C++\贪吃蛇\贪吃蛇2\WindowTest1\.\Debug\WindowTest1.exe
